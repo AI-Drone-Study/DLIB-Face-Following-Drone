@@ -10,6 +10,7 @@
 - 데모 동영상 : https://youtube.com/shorts/TopaNzO1dAM?si=HepFjE8-rsVdh5qQ
 
 - requirements
+
   cvzone 1.6.1
   dlib 19.24.5
   face-recognition 1.2.0
