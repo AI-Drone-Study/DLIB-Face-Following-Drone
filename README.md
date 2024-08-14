@@ -8,3 +8,12 @@
 
   참고 : https://www.youtube.com/watch?v=7HnLTrPMjyk
 - 데모 동영상 : https://youtube.com/shorts/TopaNzO1dAM?si=HepFjE8-rsVdh5qQ
+
+- requirements
+  cvzone 1.6.1
+  dlib 19.24.5
+  face-recognition 1.2.0
+  mediapipe 0.10.14
+  djitellopy 2.4.0
+  opencv-python 4.10.0.84
+  
