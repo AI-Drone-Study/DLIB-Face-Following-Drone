@@ -12,9 +12,16 @@
 - requirements
 
   cvzone 1.6.1
+  
   dlib 19.24.5
+  
   face-recognition 1.2.0
+  
   mediapipe 0.10.14
+  
   djitellopy 2.4.0
+  
   opencv-python 4.10.0.84
+
+- Windows 10
   
