@@ -9,7 +9,8 @@
   참고 : https://www.youtube.com/watch?v=7HnLTrPMjyk
 - 데모 동영상 : https://youtube.com/shorts/TopaNzO1dAM?si=HepFjE8-rsVdh5qQ
 
-- requirements <br>
+- requirements
+  
   cvzone 1.6.1 <br>
   dlib 19.24.5 <br>
   face-recognition 1.2.0 <br>
