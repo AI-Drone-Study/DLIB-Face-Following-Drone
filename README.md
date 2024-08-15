@@ -10,13 +10,13 @@
 - 데모 동영상 : https://youtube.com/shorts/TopaNzO1dAM?si=HepFjE8-rsVdh5qQ
 
 - requirements <br>
-  cvzone 1.6.1 <br>
-  dlib 19.24.5 <br>
-  face-recognition 1.2.0 <br>
-  mediapipe 0.10.14 <br>
-  djitellopy 2.4.0 <br>
-  opencv-python 4.10.0.84 <br>
-  numpy 2.0.1 <br>
+  cvzone==1.6.1 <br>
+  dlib==19.24.5 <br>
+  face-recognition==1.2.0 <br>
+  mediapipe==0.10.14 <br>
+  djitellopy==2.4.0 <br>
+  opencv-python==4.10.0.84 <br>
+  numpy==2.0.1 <br>
 
 - Windows 10
   
